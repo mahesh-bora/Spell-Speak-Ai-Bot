@@ -12,7 +12,7 @@ Flutter-powered AI bot, enchantingly crafted with Gemini Pro API, bringing the w
 | :---         |     :---      |       
 | <img src="https://github.com/mahesh-bora/Spell-Speak-Ai-Bot/assets/101460679/5aa7ff00-8477-4af9-afb8-504e6bdf4692" width="260" height="auto" />  | <img src="https://github.com/mahesh-bora/Spell-Speak-Ai-Bot/assets/101460679/91ce85b7-9f7b-450f-8c21-92766d426780" width="250" height="auto" />    
 
-| New Prompt Screens | Result Generated Screen | 
+| New Prompt Screen | Result Generated Screen | 
 | :---         |     :---      | 
  <img src="https://github.com/mahesh-bora/Spell-Speak-Ai-Bot/assets/101460679/c326d645-56ba-4269-8620-8c6d1f2ce4b8" width="250" height="auto" />    | <img src="https://github.com/mahesh-bora/Spell-Speak-Ai-Bot/assets/101460679/41be2e0a-dfca-4368-adbd-da211e4f7539" width="250" height="auto" /> 
 
