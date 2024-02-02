@@ -57,7 +57,7 @@ Flutter pub get and run
 Distributed under the MIT License. See [License](https://choosealicense.com/licenses/mit/) for more information.
 
 
-## 🖊️Authors
+## 🖊️Author
 
 - [Mahesh Bora](https://www.github.com/mahesh-bora) - (boraamahesh@gmail.com)
 
